@@ -52,5 +52,5 @@ A low-cost system for real-time environmental monitoring, featuring a DHT22 sens
 
 ## Contact
 
-- **LinkedIn:** [raianereis](https://www.linkedin.com/in/raiane-reis-315109160/)
+- **LinkedIn:** https://www.linkedin.com/in/raiane-reis-315109160/
 - **Email:** raianerochareis@gmail.com
