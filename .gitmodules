@@ -1,0 +1,3 @@
+[submodule "Esp32_interface"]
+	path = Esp32_interface
+	url = https://github.com/RaiRR/Esp32_interface.git
